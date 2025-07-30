@@ -1,0 +1,31 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "vid-testme"
+  },
+  "course_image": {
+    "content": "",
+    "website": "vid-testme"
+  },
+  "course_title": "vid-testme",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "**vid-testme**",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "vid-testme",
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "9369311d-f6d6-4596-af13-5881f60dc328",
+  "site_short_id": "vid-testme"
+}
