@@ -15,9 +15,9 @@ title: test3
 uid: 15e290d2-418b-49ff-8684-a8dfb0a1798f
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: /courses/vid-testme/E8uZtq_vOYM_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/E8uZtq_vOYM/default.jpg
-  video_transcript_file: ''
+  video_transcript_file: /courses/vid-testme/E8uZtq_vOYM_transcript.pdf
 video_metadata:
   source: youtube
   video_speakers: ''
